@@ -1,0 +1,26 @@
+<html>
+<head>
+<i>Pacman<i>
+<head>
+
+<body>
+<b>Demo screen<b>
+<li>
+1. Select Player(s)
+<li>
+
+<b> Game: <b>
+<li>
+1. Pacman runs around the maze looking for dots
+2. Ghosts chase him
+3. Ends if he gets caught
+4. Continue?
+<li>
+
+<b> Game end <b>
+<li>
+1. If you get a high score you can enter your initials
+2. High score shown briefly
+<li>
+<body>
+<html>
